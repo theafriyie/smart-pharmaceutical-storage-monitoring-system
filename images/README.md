@@ -1,3 +1,10 @@
 # Images
 
-This folder contains prototype photos, screenshots, and other visual materials related to the project.
+This folder contains visual materials for the project, such as:
+
+- prototype photos
+- hardware setup images
+- LCD display images
+- mobile app screenshots
+- implementation photos
+- testing images
