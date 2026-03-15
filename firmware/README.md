@@ -24,3 +24,15 @@ The firmware is responsible for:
 - Relay module
 - Cooling fan
 - LCD display
+
+## Files
+
+- `arduino_uno_code.ino`  
+  Handles temperature and humidity sensing, threshold evaluation, LCD display updates, relay control, LED indication, and buzzer alert logic.
+
+- `esp8266_nodemcu_code.ino`  
+  Handles Wi-Fi connectivity, Firebase communication, cloud data upload, and remote synchronization for the mobile application.
+
+## Notes
+
+For security, sensitive credentials such as Wi-Fi names, passwords, Firebase host URLs, and authentication tokens have been replaced with placeholders in the public repository.
